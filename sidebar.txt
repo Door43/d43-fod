@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fod:home|Door43 (fod)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fod|d43-fod repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fod/archive/master.zip|d43-fod.zip]]
+
+**Recent Changes**
+{{changes>ns = fod}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fod|Ethnologue data]]
+
